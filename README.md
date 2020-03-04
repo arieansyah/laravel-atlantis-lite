@@ -1,7 +1,7 @@
 # README
 > The Girex
 
-This project make with heart and spirit [The Girex](https://arieansyah.github.io/)
+This project make with heart and spirit [The Girex](https://arieansyah.github.io/)<br />
 Atlantis Demo [here](http://www.templatemonsterpreview.com/demo/75937.html)
 ## License
 
