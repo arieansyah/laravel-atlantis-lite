@@ -2,7 +2,7 @@
 > The Girex
 
 This project make with heart and spirit [The Girex](https://arieansyah.github.io/)
-
+Atlantis Demo [here](http://www.templatemonsterpreview.com/demo/75937.html)
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://arieansyah.github.io/)
